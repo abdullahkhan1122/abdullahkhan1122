@@ -53,15 +53,6 @@
 
 ---
 
-## 🌟 Featured Project
-
-### 🔹 Auto-Match: AI Recruitment Platform
-- Full-stack system to automate university hiring workflows  
-- AI-powered **CV parsing, test generation, and interview evaluation**  
-- Built using **Django, React (TypeScript), Next.js, and LLM-based pipelines**
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
