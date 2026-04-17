@@ -83,20 +83,6 @@
 
 ---
 
-## 🏆 Achievements & Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdullahkhan1122&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
-
----
-
-## 🚀 Contribution Insights
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahkhan1122&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
-</p>
----
 
 ## 🤝 Connect with Me
 
