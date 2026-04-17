@@ -10,7 +10,6 @@
 ## 🚀 About Me
 - 🎓 Software Engineering student at **FAST-NUCES**
 - 💡 Passionate about building **AI-powered and scalable applications**
-- 🧠 Currently working on **Auto-Match – AI Recruitment Platform**
 - 🤝 Open to collaboration on **real-world impactful projects**
 - 💬 Ask me about **Full-Stack Development, AI, and System Design**
 
