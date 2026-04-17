@@ -62,17 +62,40 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdullahkhan1122&show_icons=true&locale=en" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhan1122" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdullahkhan1122&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhan1122&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhan1122&show_icons=true&locale=en&layout=compact" alt="langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhan1122&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
+---
+
+## ⚡ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahkhan1122&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 Achievements & Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdullahkhan1122&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🚀 Contribution Insights
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=abdullahkhan1122&limit=5&theme=tokyonight&combine_all_yearly_contributions=true"/>
+</p>
 ---
 
 ## 🤝 Connect with Me
