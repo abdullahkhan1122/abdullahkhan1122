@@ -18,11 +18,11 @@ Building intelligent, scalable, and reliable software products.
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/abdullahikhan6" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/6E7681" alt="X" width="32" height="32" />
+  <img src="twitter.png" alt="X" width="32" height="32" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/khan._.abdulah" target="_blank">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="34" height="34" />
+  <img src="social.png" alt="Instagram" width="34" height="34" />
 </a>
 
 <br><br>
