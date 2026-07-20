@@ -24,14 +24,13 @@
 
 ## 🛠️ Languages & Tools
 
-## 🛠️ Languages & Tools
-
 <p align="center">
   <img
     src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,typescript,cs,php,react,nextjs,django,flask,tailwind,mysql,postgresql,mongodb,git,github,vscode,linux,androidstudio&perline=11"
     alt="Languages and Development Tools"
   />
 </p>
+
 ---
 
 ## 📊 GitHub Analytics
@@ -65,7 +64,7 @@
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <a
     href="https://linkedin.com/in/muhammad-abdullah-at2003/"
     target="_blank"
