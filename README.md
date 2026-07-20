@@ -66,18 +66,6 @@
 
 <p align="center">
   <a
-    href="https://linkedin.com/in/muhammad-abdullah-at2003/"
-    target="_blank"
-  >
-    <img
-      src="linkedin.png"
-      alt="LinkedIn"
-      height="30"
-      width="40"
-    />
-  </a>
-
-  <a
     href="https://twitter.com/abdullahikhan6"
     target="_blank"
   >
@@ -88,7 +76,6 @@
       width="40"
     />
   </a>
-
   <a
     href="https://instagram.com/khan._.abdulah"
     target="_blank"
@@ -100,4 +87,17 @@
       width="40"
     />
   </a>
+  <a
+    href="https://linkedin.com/in/muhammad-abdullah-at2003/"
+    target="_blank"
+  >
+    <img
+      src="linkedin.png"
+      alt="LinkedIn"
+      height="30"
+      width="40"
+    />
+  </a>
+
+  
 </p>
