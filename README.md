@@ -9,20 +9,24 @@ Building intelligent, scalable, and user-focused software products.
 <br>
 
 <a href="https://linkedin.com/in/muhammad-abdullah-at2003/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/abdullahkhan1122">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+&nbsp;
+<a href="https://github.com/abdullahkhan1122?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-Explore%20Projects-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Projects"/>
 </a>
+&nbsp;
 <a href="https://twitter.com/abdullahikhan6">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  <img src="https://img.shields.io/badge/X-Follow%20Me-111111?style=for-the-badge&logo=x&logoColor=white" alt="X Profile"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/github/followers/abdullahkhan1122?label=Followers&style=flat-square&color=6366F1&logo=github" alt="GitHub Followers"/>
-<img src="https://img.shields.io/github/stars/abdullahkhan1122?affiliations=OWNER&label=Total%20Stars&style=flat-square&color=06B6D4&logo=github" alt="GitHub Stars"/>
-<img src="https://komarev.com/ghpvc/?username=abdullahkhan1122&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/abdullahkhan1122?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6366F1" alt="GitHub Followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/abdullahkhan1122?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&logoColor=white&color=0EA5E9" alt="GitHub Stars"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=abdullahkhan1122&label=Profile%20Views&color=14B8A6&style=for-the-badge" alt="Profile Views"/>
 
 </div>
 
@@ -32,7 +36,7 @@ Building intelligent, scalable, and user-focused software products.
 
 I am a **Software Engineering student at FAST-NUCES** with a strong interest in full-stack development, artificial intelligence, backend engineering, and scalable software systems.
 
-I enjoy turning ideas into practical products through clean code, thoughtful architecture, and modern development practices. My current interests include **AI-powered applications, API development, intelligent automation, system design, and secure software engineering**.
+I enjoy transforming ideas into practical products through clean code, thoughtful architecture, and modern development practices. My current interests include **AI-powered applications, API development, intelligent automation, system design, and secure software engineering**.
 
 ```yaml
 name: Muhammad Abdullah
@@ -64,7 +68,7 @@ open_to:
 <tr>
 <td width="50%" valign="top">
 
-### Full-Stack Development
+### 🌐 Full-Stack Development
 
 Building responsive, maintainable, and user-focused web applications.
 
@@ -73,7 +77,7 @@ Building responsive, maintainable, and user-focused web applications.
 </td>
 <td width="50%" valign="top">
 
-### AI-Powered Products
+### 🤖 AI-Powered Products
 
 Exploring practical AI integrations for real-world products and workflows.
 
@@ -85,7 +89,7 @@ Exploring practical AI integrations for real-world products and workflows.
 <tr>
 <td width="50%" valign="top">
 
-### Backend Engineering
+### ⚙️ Backend Engineering
 
 Developing APIs, authentication systems, databases, and application business logic.
 
@@ -94,7 +98,7 @@ Developing APIs, authentication systems, databases, and application business log
 </td>
 <td width="50%" valign="top">
 
-### Software Architecture
+### 🧩 Software Architecture
 
 Creating modular and maintainable software through structured development practices.
 
@@ -111,13 +115,13 @@ Creating modular and maintainable software through structured development practi
 ### Core Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,django,flask,laravel&theme=dark&perline=9" alt="Core Technologies"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,nodejs,django,flask,laravel&theme=dark&perline=9" alt="Core Development Technologies"/>
 </p>
 
 ### Databases and Development Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,linux,git,github,postman,vscode&theme=dark&perline=9" alt="Databases and Tools"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,docker,linux,git,github,postman,vscode&theme=dark&perline=9" alt="Databases and Development Tools"/>
 </p>
 
 ### Additional Technologies
@@ -128,11 +132,21 @@ Creating modular and maintainable software through structured development practi
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub at a Glance
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahkhan1122&theme=github_dark" alt="GitHub Profile Details"/>
+<a href="https://github.com/abdullahkhan1122?tab=followers">
+  <img src="https://img.shields.io/github/followers/abdullahkhan1122?label=GitHub%20Followers&style=for-the-badge&logo=github&logoColor=white&color=6366F1" alt="GitHub Followers"/>
+</a>
+
+<a href="https://github.com/abdullahkhan1122?tab=stars">
+  <img src="https://img.shields.io/github/stars/abdullahkhan1122?affiliations=OWNER&label=Repository%20Stars&style=for-the-badge&logo=github&logoColor=white&color=0EA5E9" alt="Repository Stars"/>
+</a>
+
+<a href="https://github.com/abdullahkhan1122?tab=repositories">
+  <img src="https://img.shields.io/badge/Public%20Repositories-18-14B8A6?style=for-the-badge&logo=github&logoColor=white" alt="Public Repositories"/>
+</a>
 
 </div>
 
@@ -140,23 +154,11 @@ Creating modular and maintainable software through structured development practi
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahkhan1122&theme=github_dark" alt="GitHub Statistics"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahkhan1122&theme=github_dark" alt="Languages by Repository"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=abdullahkhan1122&theme=github-dark-blue&hide_border=true&background=0D1117&ring=6366F1&fire=22D3EE&currStreakLabel=818CF8&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Contribution Streak"/>
 
 </div>
 
-<br>
-
-<div align="center">
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahkhan1122&theme=github_dark" alt="Most Used Languages"/>
-
-<img width="49%" src="https://streak-stats.demolab.com?user=abdullahkhan1122&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak"/>
-
-</div>
-
-> Language statistics are calculated from public repositories and may not represent overall experience or proficiency.
+> The repository count is written manually. Update it when you create or remove repositories.
 
 ---
 
@@ -203,11 +205,15 @@ technical collaborations, and opportunities to build meaningful technology.
 <br><br>
 
 <a href="https://linkedin.com/in/muhammad-abdullah-at2003/">
-  <img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/abdullahkhan1122?tab=repositories">
+  <img src="https://img.shields.io/badge/GitHub-View%20My%20Work-24292F?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Projects"/>
 </a>
 
 <br><br>
 
-**Clean code. Practical ideas. Meaningful products.**
+### Clean code · Practical ideas · Meaningful products
 
 </div>
