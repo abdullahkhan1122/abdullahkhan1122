@@ -130,42 +130,50 @@ My work combines **full-stack development, backend engineering, artificial intel
 
 ## GitHub Overview
 
-<div align="center">
-
-<img
-  width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=abdullahkhan1122&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=github_dark&rank_icon=github"
-  alt="Muhammad Abdullah GitHub Statistics"
-/>
-
-<img
-  width="49%"
-  src="https://streak-stats.demolab.com?user=abdullahkhan1122&theme=github-dark-blue&hide_border=true"
-  alt="Muhammad Abdullah GitHub Streak"
-/>
-
-</div>
-
-<br>
+## GitHub Overview
 
 <div align="center">
 
-<img
-  width="48%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullahkhan1122&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
-  alt="Most Used Languages"
-/>
+  <!-- Complete GitHub activity summary -->
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahkhan1122&theme=github_dark"
+    alt="Muhammad Abdullah GitHub Activity"
+  />
 
-<img
-  width="48%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahkhan1122&theme=github_dark&utcOffset=5"
-  alt="Productive Development Time"
-/>
+  <br><br>
+
+  <!-- GitHub statistics -->
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahkhan1122&theme=github_dark"
+    alt="Muhammad Abdullah GitHub Statistics"
+  />
+
+  <!-- Productive development time -->
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahkhan1122&theme=github_dark&utcOffset=5"
+    alt="Muhammad Abdullah Productive Time"
+  />
+
+  <br><br>
+
+  <!-- Languages used across repositories -->
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahkhan1122&theme=github_dark"
+    alt="Languages Used Across Repositories"
+  />
+
+  <!-- Languages used across commits -->
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahkhan1122&theme=github_dark"
+    alt="Most Used Languages by Commit"
+  />
 
 </div>
-
----
-
 ## Contribution Activity
 
 <div align="center">
