@@ -1,27 +1,29 @@
-<!-- =========================================================
-                     MUHAMMAD ABDULLAH
-                   PROFESSIONAL GITHUB PROFILE README
-========================================================== -->
+<!-- ================================================
+              MUHAMMAD ABDULLAH - PROFILE README
+================================================= -->
 
 <div align="center">
-  <!-- Optional: Add a subtle header banner (create one with tools like Canva or capsule-render) -->
-  <!-- <img src="https://capsule-render.vercel.app/api?type=rect&color=0A66C2&height=120&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=ffffff" alt="Header" /> -->
+  <!-- Eye-catching Header -->
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0A66C2&height=220&section=header&text=Muhammad%20Abdullah&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20AI%20%26%20Full-Stack%20Developer&descAlign=center&descSize=18" alt="Header Banner" />
 
-  <h1>Muhammad Abdullah</h1>
-  <h3>Software Engineer · AI & Full-Stack Developer</h3>
-  <p><em>Building intelligent, scalable, and user-centered digital products.</em></p>
+  <h2>Software Engineer &bull; AI &amp; Full-Stack Developer</h2>
+  <p><strong>Building intelligent, scalable, and production-ready digital experiences.</strong></p>
 
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Architect;AI+Systems+Builder;Problem+Solver+at+Scale;Always+Learning+&amp;+Shipping" alt="Typing Animation" />
+
+  <br>
+
+  <!-- Professional Social Badges -->
   <p>
     <a href="https://linkedin.com/in/muhammad-abdullah-at2003/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    &nbsp;
     <a href="https://twitter.com/abdullahikhan6">
-      <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+      <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
-    &nbsp;
     <a href="https://instagram.com/khan._.abdulah">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 
@@ -30,72 +32,70 @@
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in full-stack development, backend systems, and artificial intelligence. I design and build reliable, scalable software solutions that solve real-world problems with clean architecture and modern technologies.
+Passionate **Software Engineer** with deep expertise in full-stack development, backend architecture, and artificial intelligence. I transform complex problems into clean, scalable, and maintainable software solutions that deliver real business value.
 
-- **Full-Stack Applications** — End-to-end web products with excellent user experiences
-- **AI-Powered Solutions** — Intelligent tools, automation, and data-driven workflows
-- **Backend & Architecture** — Robust APIs, databases, and maintainable systems
-- **Open Source & Collaboration** — Active contributor focused on quality and impact
+I specialize in building **end-to-end digital products** that combine beautiful user interfaces with robust, intelligent backends.
+
+- **Currently exploring** advanced AI agents, autonomous workflows, and high-performance systems.
+- Strong advocate for clean code, software craftsmanship, and collaborative development.
+- Always seeking challenging opportunities to create impactful technology.
 
 ---
 
-## 🚀 Engineering Focus
+## 🧩 Core Expertise
 
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <h3>Full-Stack Development</h3>
-      <p>Modern, responsive web applications built with cutting-edge frameworks and seamless user interfaces.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>AI & Intelligent Systems</h3>
-      <p>Integrating machine learning, automation, and smart workflows into production-ready products.</p>
-    </td>
-    <td width="33%" align="center">
-      <h3>Backend Engineering</h3>
-      <p>Scalable APIs, secure authentication, high-performance databases, and cloud-ready architecture.</p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| Full-Stack Development | AI & Machine Learning | Backend & Architecture |
+|------------------------|-----------------------|------------------------|
+| Modern web applications with React/Next.js + Tailwind | Intelligent tools, automation & AI integrations | Scalable APIs, databases, authentication & microservices |
+
+</div>
 
 ---
 
 ## 🛠️ Technology Stack
 
-### Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,cs,php&theme=dark" alt="Languages" />
-</p>
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
-### Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
-</p>
+**Frontend**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 
-### Backend & Frameworks
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,django,flask,fastapi,laravel&theme=dark" alt="Backend" />
-</p>
+**Backend & Frameworks**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-### Databases & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,docker,postman,vscode,linux&theme=dark" alt="Tools & Databases" />
-</p>
+**Databases & Tools**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+*(Full interactive icons available in the original version – let me know if you want them back)*
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahkhan1122&theme=github_dark" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullahkhan1122&theme=github_dark" alt="Profile Overview" width="100%" />
   
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahkhan1122&theme=github_dark" alt="Stats" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahkhan1122&theme=github_dark&utcOffset=5" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullahkhan1122&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abdullahkhan1122&theme=github_dark&utcOffset=5" width="49%" />
   
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahkhan1122&theme=github_dark" alt="Repos by Language" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abdullahkhan1122&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahkhan1122&theme=github_dark&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abdullahkhan1122&theme=github_dark" width="49%" />
 </div>
 
 ---
@@ -103,32 +103,35 @@ I am a **Software Engineer** specializing in full-stack development, backend sys
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahkhan1122&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahkhan1122&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
 ## 🎯 Currently Focused On
 
-- Building production-grade full-stack applications with strong emphasis on performance and maintainability
-- Exploring advanced AI integrations, agentic workflows, and intelligent automation systems
-- Contributing to open-source projects and collaborating on meaningful technical challenges
+- Developing **AI-powered applications** and intelligent automation systems
+- Building **scalable full-stack platforms** with excellent DX and performance
+- Advancing knowledge in system design, cloud architecture, and modern DevOps practices
+- Contributing to open source and mentoring fellow developers
 
 ---
 
-## 💼 Let’s Connect & Collaborate
+## 🤝 Let’s Build Something Great Together
 
-I’m open to **software engineering opportunities**, technical collaborations, open-source contributions, and innovative full-stack or AI projects.
+I’m currently **open to new opportunities**, collaborations, and interesting AI / full-stack projects.
+
+**Feel free to reach out** — whether it’s a challenging role, an open-source idea, or just a technical discussion.
 
 <div align="center">
   <a href="https://linkedin.com/in/muhammad-abdullah-at2003/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
 ---
 
 <div align="center">
-  <strong>Software Engineer · AI & Full-Stack Developer</strong><br>
-  <sub>Designed & maintained by Muhammad Abdullah</sub>
+  <sub><strong>Software Engineer • AI & Full-Stack Developer</strong></sub><br>
+  <sub>Designed & maintained with ❤️ by Muhammad Abdullah</sub>
 </div>
