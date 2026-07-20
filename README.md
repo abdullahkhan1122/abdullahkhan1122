@@ -50,14 +50,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullahkhan1122&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Most Used Languages"
-    height="160"
-  />
-</p>
-
 ---
 
 ## ⚡ Activity Graph
@@ -79,7 +71,7 @@
     target="_blank"
   >
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="linkedin.png"
       alt="LinkedIn"
       height="30"
       width="40"
@@ -91,7 +83,7 @@
     target="_blank"
   >
     <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="twitter.png"
       alt="Twitter"
       height="30"
       width="40"
