@@ -14,7 +14,7 @@ Building intelligent, scalable, and reliable software products.
 <br>
 
 <a href="https://linkedin.com/in/muhammad-abdullah-at2003/" target="_blank">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" width="34" height="34" />
+  <img src="[https://cdn.simpleicons.org/linkedin/0A66C2](https://linkedin.com)" alt="LinkedIn" width="34" height="34" />
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/abdullahikhan6" target="_blank">
